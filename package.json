@@ -1,0 +1,22 @@
+{
+  "name": "js-rotate",
+  "version": "1.0.0",
+  "description": "rotate util",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyliyue/js-rotate.git"
+  },
+  "keywords": [
+    "rotate"
+  ],
+  "author": "jyliyue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jyliyue/js-rotate/issues"
+  },
+  "homepage": "https://github.com/jyliyue/js-rotate#readme"
+}
